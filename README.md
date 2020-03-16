@@ -1,5 +1,6 @@
 # having-fun-with-opencv
 Scripts of my Assignment for Computer Vision class, MSc in Artificial Intelligence, KU Leuven
+Last update: 16th March 2020
 
 Watch the final video here: https://www.youtube.com/watch?v=1sXB0U-xoJA
 
